@@ -166,7 +166,7 @@ header .burger {
 section {
   display: grid;
   justify-items: center;
-  max-width: 1180px;
+  max-width: 1280px;
   padding: 0 80px;
 }
 
@@ -298,7 +298,8 @@ section {
 
 /* 服务流程 */
 .service {
-  padding-top: 131px;
+  padding: 0;
+  padding-top: 72px;
 }
 
 .services {
@@ -465,7 +466,7 @@ section {
 
 /* 公司动态 */
 .company-activities {
-  margin-top: 88px;
+  margin-top: 80px;
 }
 
 .activities {
@@ -562,7 +563,7 @@ footer {
   color: var(--text-color-lightest);
 }
 
-.contact-is p:not(:first-child) {
+.contact-us p:not(:first-child) {
   padding-bottom: 16px;
 }
 
